@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+.cat {
+    background-color: cadetblue;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    border: 1px solid #1D3557;
+    flex: 1;
+}
+
+@media (min-width: 960px){
+
+    .cats {
+        display: flex;
+    }
+}
+
+.cats1{
+    
+        background-color: #F19D4F;
+    }
